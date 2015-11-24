@@ -1,0 +1,243 @@
+@charset "utf-8";
+		body
+			{
+				 background-color: white;				 
+				 margin:50px;
+				 margin-top: 10px;
+				 width:1250px;
+				
+			}	
+		
+		#container
+			{
+				width:1200px;
+				height:900px;
+			}
+		
+		#header
+			{
+				width: 1200px;
+				height: 190px;
+			}
+		
+		.logo 
+			{			
+				float:left;			
+			}
+		
+		.words
+			{
+				float: right;				  	
+				width: 400px;
+				font-family:alex-brush;
+				font-style:italic;
+				font-size:18px;
+				text-align:right;
+			
+			}	
+		
+		#menu 
+			{
+				background: white;	
+				font-size: 28px;
+				font-family: Impact;
+				color: black;
+				border-radius: 10px;
+				width: 200px;
+				float: left;
+				padding: 7px;			
+			}	
+				
+		#content
+			{
+				width: 1200px;
+				height: 710px;
+			}
+		#center
+			{
+				background: white;	
+				font-size: 16px;
+				font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+				color: black;
+				width: 970px;
+				height: 550px;
+				padding: 7px;
+				float: right;	
+				-webkit-box-shadow: 2px 2px 2px 2px #000000;
+				box-shadow: 2px 2px 2px 2px #000000;
+				margin-bottom: 10px;
+				
+	
+			}
+		
+		.Ben
+		{
+			text-align: right;
+		}
+		.title1 
+		{
+			text-align:center;
+			color: white;
+			background: black;
+		
+		}
+		
+		a 
+		{
+			text-decoration:none;
+			color: black;
+		}
+		
+		a:hover 
+		{
+			color: white;
+		}
+		.point{padding-left: 5px}
+		
+		.point:hover
+		{
+			text-align: left;
+				
+			background: black;
+		}
+		
+		.point:hover a
+		{
+			color: white;
+			text-align: left;
+						
+			background: black;
+		}
+				
+		
+		
+		.avtorization 
+		{
+			color: #000000;
+			font-size: 14px;
+			font-family: "Times New Roman";
+				
+		}
+				
+		input 
+		{
+			width: 140px;					 	
+					
+		}
+		
+		input[type="text"]
+		{	
+			margin-left: 10px;
+		}
+		
+		input[type="submit"]
+		{	
+			margin-left: 30px;		
+			font-weight: bold;}
+					
+		input:focus 
+		{
+			border-color: black;
+			outline:none;
+		}
+		
+		.hits
+		{
+			float:left;
+			margin: 10px;
+		}
+		.grup
+		{
+			text-align:center;
+			font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+		}
+		
+		.tabliza
+		{
+			margin-left: 20%;
+			margin-right: 20%;
+			
+		}
+		
+		table
+		{ border-spacing: 5px;
+		
+		  
+			}
+		
+		.cell
+		{
+			width: 600px;
+			
+		}
+		td {padding: 4px;
+		border-bottom: 1px solid black;
+			 }
+		
+		.cell1 
+		{
+			background:#DBDBDB;
+		}
+		.ok { font-family:Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+		text-align:center;
+		}
+		
+		.center
+		{
+			background: white;	
+				font-size: 16px;
+				font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+				color: black;
+				width: 970px;
+				height: 1000px;
+				padding: 7px;
+				float: right;	
+				-webkit-box-shadow: 2px 2px 2px 2px #000000;
+				box-shadow: 2px 2px 2px 2px #000000;
+				margin-bottom: 10px;
+		}
+		.picsl
+		{float:left;
+		margin: 10px;}
+		
+		.picsr
+		{float:right;
+		margin: 10px;}
+		.center2
+		{ background: white;	
+				font-size: 16px;
+				font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+				color: black;
+				width: 970px;
+				height: 350px;
+				padding: 7px;
+				float: right;	
+				-webkit-box-shadow: 2px 2px 2px 2px #000000;
+				box-shadow: 2px 2px 2px 2px #000000;
+				margin-bottom: 10px;
+			
+			}
+		.album { text-align:center;
+			border-left: 1px solid #C7C7C7;
+			width:400px;
+			float:right;
+			padding: 5px;}
+			
+			.album2 { text-align:center;
+			border-right: 1px solid #C7C7C7;
+			width:400px;
+			float:left;
+			padding: 5px;}
+			
+		.tracks
+		{
+			width: 500px;
+			
+			margin-left: 250px;}
+		.tracks2
+		{
+			width: 500px;
+			
+			margin-left: 450px;}
+
+	
